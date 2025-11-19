@@ -60,6 +60,9 @@ I am a professional full-stack PHP developer with 10+ years of experience in bui
 - 💼 LinkedIn: [istvandobrentei](https://www.linkedin.com/in/istvandobrentei/)  
 - ✍️ Dev.to: [dobrenteiistvan](https://dev.to/dobrenteiistvan)  
 - 📰 CoderLegion: [dobrenteiistvan](https://coderlegion.com/user/Istv%C3%A1n+D%C3%B6brentei)  
+- 🚴 Strava: [Strava](https://www.strava.com/athletes/19183071)
+- 🐦 Twitter: [Twitter](https://twitter.com/dobrenteiistvan)  
+- 📘 Facebook: [Facebook](https://www.facebook.com/istvan.dobrentei)
 
 ---
 
