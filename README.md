@@ -34,6 +34,8 @@ I am a professional full-stack PHP developer with 10+ years of experience in bui
 
 ![Zend Certified Engineer](https://img.shields.io/badge/Zend%20Certified-Engineer-121212?logo=zend&logoColor=white)
 ![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-0078D4?logo=microsoftazure&logoColor=white)
+![Azure Developer Associate](https://img.shields.io/badge/Azure-Developer%20Associate-0078D4?logo=microsoftazure&logoColor=white)
+![Azure DevOps Expert](https://img.shields.io/badge/Azure-DevOps%20Engineer%20Expert-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-orange?logo=amazonaws&logoColor=white)
 
 ---
@@ -57,7 +59,7 @@ I am a professional full-stack PHP developer with 10+ years of experience in bui
 - 🌐 Website: [www.en.dobrenteiistvan.hu](https://www.en.dobrenteiistvan.hu)  
 - 💼 LinkedIn: [istvandobrentei](https://www.linkedin.com/in/istvandobrentei/)  
 - ✍️ Dev.to: [dobrenteiistvan](https://dev.to/dobrenteiistvan)  
-- 📰 CoderLegion: [dobrenteiistvan](https://coderlegion.com/user/dobrenteiistvan)  
+- 📰 CoderLegion: [dobrenteiistvan](https://coderlegion.com/user/Istv%C3%A1n+D%C3%B6brentei)  
 
 ---
 
