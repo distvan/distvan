@@ -63,7 +63,7 @@ I am a professional full-stack PHP developer with 10+ years of experience in bui
 - 🚴 Strava: [Strava](https://www.strava.com/athletes/19183071)
 - 🐦 Twitter: [Twitter](https://twitter.com/dobrenteiistvan)  
 - 📘 Facebook: [Facebook](https://www.facebook.com/istvan.dobrentei)
-
+- 🐘 Mastodon: [Mastodon](https://phpc.social/@distvan)
 ---
 
 ## 👀 Visitors
