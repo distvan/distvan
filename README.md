@@ -44,7 +44,7 @@ I am a professional full-stack PHP developer with 10+ years of experience in bui
 
 - 🔗 [More Than Skills: The Human Traits That Build Great Teams](https://dev.to/dobrenteiistvan/more-than-skills-the-human-traits-that-build-great-teams-1bfm)
 - 🔗 [More articles on Dev.to](https://dev.to/dobrenteiistvan)
-- 🔗 [My posts on CoderLegion](https://coderlegion.com/user/Istv%C3%A1n+D%C3%B6brentei)
+- 🔗 [My posts on CoderLegion](https://coderlegion.com/user/istvan-dobrentei)
 
 ---
 
@@ -59,7 +59,7 @@ I am a professional full-stack PHP developer with 10+ years of experience in bui
 - 🌐 Website: [www.en.dobrenteiistvan.hu](https://www.en.dobrenteiistvan.hu)  
 - 💼 LinkedIn: [istvandobrentei](https://www.linkedin.com/in/istvandobrentei/)  
 - ✍️ Dev.to: [dobrenteiistvan](https://dev.to/dobrenteiistvan)  
-- 📰 CoderLegion: [dobrenteiistvan](https://coderlegion.com/user/Istv%C3%A1n+D%C3%B6brentei)  
+- 📰 CoderLegion: [dobrenteiistvan](https://coderlegion.com/user/istvan-dobrentei)  
 - 🚴 Strava: [Strava](https://www.strava.com/athletes/19183071)
 - 🐦 Twitter: [Twitter](https://twitter.com/dobrenteiistvan)  
 - 📘 Facebook: [Facebook](https://www.facebook.com/istvan.dobrentei)
